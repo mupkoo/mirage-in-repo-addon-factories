@@ -2,5 +2,8 @@
   "name": "shuttle",
   "keywords": [
     "ember-addon"
-  ]
+  ],
+  "dependencies": {
+    "ember-cli-htmlbars": "^1.0.3"
+  }
 }
